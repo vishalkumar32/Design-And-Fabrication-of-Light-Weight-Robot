@@ -1,4 +1,4 @@
-![Screenshot (8)](https://github.com/vishalkumar32/Design-And-Fabrication-of-Light-Weight-Robot/assets/111268202/5ac71d28-0eaa-44fb-8f97-17dab5b5b73e)# Design-And-Fabrication-of-Light-Weight-Robot
+# Design-And-Fabrication-of-Light-Weight-Robot
 the entire design and fabrication process, providing comprehensive technical documentation for future reference,Utilized state-of-the-art technologies and tools to create detailed 3D models and simulations, ensuring precision and accuracy in the design process.
 Collaboratively designed and engineered the robot to achieve optimal weight, agility, and functionality for diverse
 applications,The project showcased a strong blend of engineering expertise, problem-solving, and project management abilities.
@@ -11,6 +11,6 @@ alkumar32/Design-And-Fabrication-of-Light-Weight-Robot/assets/111268202/d81562eb
 Uploading Screenshot (8).png…]()
 t (11)](https://github.com/vishalkumar32/Design-And-Fabrication-of-Light-Weight-Robot/assets/111268202/d695298e-be93-438c-b773-f067798e613a)
 cc4c-9e42-4618-b126-ca3fbe74e58b)
-
+![Screenshot (8)](https://github.com/vishalkumar32/Design-And-Fabrication-of-Light-Weight-Robot/assets/111268202/5ac71d28-0eaa-44fb-8f97-17dab5b5b73e)
 
 
