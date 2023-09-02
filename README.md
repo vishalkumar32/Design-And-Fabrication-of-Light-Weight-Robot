@@ -33,7 +33,7 @@ applications,The project showcased a strong blend of engineering expertise, prob
 
 ![Screenshot (109)](https://github.com/vishalkumar32/Design-And-Fabrication-of-Light-Weight-Robot/assets/111268202/badf3340-f2e9-4b77-985e-a4f148a6bb31)
 
-# Uses 
+# Applications
 In a manufacturing or machine tool shop, robots can automate a variety of repetitive tasks. Machine tending robots place workpieces inside machine tools and remove them once an operation is completed. Milling robots help CNC automation by allowing for automatic tool replacement and unsupervised operation
 
 
